@@ -1,0 +1,23 @@
+.navbar {
+    height: 50px;
+    background: #ccc;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.profile{
+    font-weight: bold;
+}
+
+.btn {
+    padding: 10px;
+    border-radius: 8px;
+    background: #412e85;
+    margin: 8px;
+}
+
+h3{
+    font-weight: bold;
+}
